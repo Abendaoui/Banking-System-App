@@ -1,0 +1,2 @@
+class InstanceException(Exception):
+    pass

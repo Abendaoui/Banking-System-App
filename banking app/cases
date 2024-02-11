@@ -1,0 +1,7 @@
+Lock And Unlock Simulator
+
+Steps :
+ ==> When User Wants To Create Ask Him For Pwd
+ ==> set given pwd to password attribute
+ ==> lock account using function
+ 
